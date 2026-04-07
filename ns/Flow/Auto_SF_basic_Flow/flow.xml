@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FLOW VERSION="3.2" CLEANUP="true">
+
+  <!-- nodes -->
+
+<INVOKE TIMEOUT="" SERVICE="CCS:Auto_SF_Basic_QueryAcc_CCS" VALIDATE-IN="$none" VALIDATE-OUT="$none">
+  <COMMENT></COMMENT>
+</INVOKE>
+</FLOW>
