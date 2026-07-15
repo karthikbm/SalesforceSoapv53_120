@@ -39,5 +39,6 @@
   <value name="pipeline_option">0</value>
   <null name="originURI"/>
   <value name="modifiable">true</value>
-  <value name="is_public">false</value>
+  <value name="is_public">true</value>
+<value name="is_visible">true</value>
 </Values>
